@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "node-server",
+			"path": "."
+		},
+		{
+			"name": "eagle-eye",
+			"path": "../vue-all/eagle-eye"
+		}
+	],
+	"settings": {}
+}
