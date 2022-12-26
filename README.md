@@ -1,9 +1,7 @@
+
 # node-server
-node-server
+## eagle-eye-server
 
-
-# eagle-eye-server
-## Eagle Eye Api
 
  ### **SetUp**
 
